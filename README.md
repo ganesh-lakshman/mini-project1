@@ -1,5 +1,8 @@
 # mini-project1
 
+## TINKER IT HERE
+ [project](https://www.tinkercad.com/things/a3ZscvoEgEz-mini-project)
+
 ## INTRO
 This project is to water plants from garden that might left untouched. plants need water when the soil moisture is low and when heat from the sun is high. combining microcontrollers and gardening is a popular idea. but this project lets users to control the water flow wherever in the world they are. we can host our system to a website and can control watering to the garden.
 
